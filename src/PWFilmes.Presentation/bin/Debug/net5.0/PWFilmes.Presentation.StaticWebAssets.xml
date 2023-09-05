@@ -1,4 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\PW\PWFilmes\src\PWFilmes.Presentation\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\PW\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\Etec\.nuget\packages\radzen.blazor\4.15.10\build\..\staticwebassets\" />
 </StaticWebAssets>
