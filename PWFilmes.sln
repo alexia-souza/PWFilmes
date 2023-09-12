@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.33801.447
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PWFilmes.Presentation", "src\PWFilmes.Presentation\PWFilmes.Presentation.csproj", "{7A916B27-EF64-40C6-B036-0A2CC6FAA9EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWFilmes.Domain", "PWFilmes.Domain\PWFilmes.Domain.csproj", "{4632714A-B99B-403A-8921-77A61A7AE366}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PWFilmes.Domain", "PWFilmes.Domain\PWFilmes.Domain.csproj", "{4632714A-B99B-403A-8921-77A61A7AE366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWFilmes.API", "PWFilmes.API\PWFilmes.API.csproj", "{42D693A5-5F77-4E12-9B18-23F486031A18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4632714A-B99B-403A-8921-77A61A7AE366}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4632714A-B99B-403A-8921-77A61A7AE366}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4632714A-B99B-403A-8921-77A61A7AE366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D693A5-5F77-4E12-9B18-23F486031A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D693A5-5F77-4E12-9B18-23F486031A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D693A5-5F77-4E12-9B18-23F486031A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D693A5-5F77-4E12-9B18-23F486031A18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
