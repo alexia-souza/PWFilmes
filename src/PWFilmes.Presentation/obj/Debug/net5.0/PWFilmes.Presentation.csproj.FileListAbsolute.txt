@@ -1038,7 +1038,6 @@ C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\PWFilmes.Present
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\PWFilmes.Presentation.MvcApplicationPartsAssemblyInfo.cache
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\PWFilmes.Presentation.RazorComponent.input.cache
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
-C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\RazorDeclaration\Pages\Categoria\CategoriaListar.razor.g.cs
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
@@ -1052,7 +1051,6 @@ C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\PWFilmes.Present
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\PWFilmes.Presentation.TagHelpers.output.cache
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\PWFilmes.Presentation.RazorCoreGenerate.cache
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\Razor\App.razor.g.cs
-C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\Razor\Pages\Categoria\CategoriaListar.razor.g.cs
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
@@ -1906,3 +1904,15 @@ C:\PW\PWFilmes\src\PWFilmes.Presentation\bin\Debug\net5.0\wwwroot\_framework\Sys
 C:\PW\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\PWFilmes.Presentation.csproj.AssemblyReference.cache
 C:\PW\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\build-gz\4qVzsMZi.gz
 C:\PW\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\build-gz\NxlbbdHb.gz
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\build-gz\4qVzsMZi.gz
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\build-gz\NxlbbdHb.gz
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\bin\Debug\net5.0\wwwroot\_framework\PWFilmes.Domain.dll.gz
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\bin\Debug\net5.0\wwwroot\_framework\PWFilmes.Domain.dll
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\bin\Debug\net5.0\wwwroot\_framework\PWFilmes.Domain.pdb
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\RazorDeclaration\Pages\PagesCategorias\CategoriaListar.razor.g.cs
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\Razor\Pages\PagesCategorias\CategoriaListar.razor.g.cs
+C:\PWFilmes\PWFilmes\src\PWFilmes.Presentation\obj\Debug\net5.0\build-gz\gfnlMP35.gz

@@ -2,7 +2,7 @@
 
 namespace PWFilmes.Domain
 {
-    public class Categorias
+    public class Categoria
     {
         public int Codigo { get; set; }
         public string Descricao { get; set; }
