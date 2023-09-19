@@ -28,23 +28,9 @@
     List<Categoria> categorias = new List<Categoria>(); // oq está entre<> é o "oq" da situação ex: Lista de categorias
 
     protected override void OnInitialized()
+
     {
-        categorias.Add(
-            new Categoria
-            {
-                Codigo = 1,
-                Descricao = "Terror",
-                Cor = "Vermelho"
-            });
-
-        categorias.Add(
-            new Categoria
-            {
-                Codigo = 2,
-                Descricao = "Comédia",
-                Cor = "Azul"
-            });
-
-        base.OnInitialized();
+        var response = await HttpClient.GetAsync("");
+        return base.OnInitializedAsync();
     }
 }
