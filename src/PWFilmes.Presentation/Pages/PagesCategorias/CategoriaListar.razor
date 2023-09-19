@@ -1,5 +1,8 @@
 ﻿@page "/categoria/listar"
 @using PWFilmes.Domain
+@using System.Text.Json 
+
+@inject HttpClient Http
 
 <h3>CategoriaListar</h3>
 
@@ -27,10 +30,13 @@
 @code {
     List<Categoria> categorias = new List<Categoria>(); // oq está entre<> é o "oq" da situação ex: Lista de categorias
 
-    protected override void OnInitialized()
-
+    protected override async Task OnInitializedAsync()
     {
-        var response = await HttpClient.GetAsync("");
-        return base.OnInitializedAsync();
+        var response = await Http.GetAsync("api/Categoria/listar"); // faz a requisição para o servidor
+        var content = await response.Content.ReadAsStreamAsync(); // guarda o resultado no content em forma de string
+        var option = new JsonSerializerOptions { PropertyNameCaseInsensitive = true }; // faz o C# ignorar a CaseSensitive
+        categorias = JsonSerializer.Deserialize<List<Categoria>>(content,option); // serializer = converter json em classe especifica do C#, no caso convertendoa a lista de categoria
+
+        await base.OnInitializedAsync();
     }
 }
