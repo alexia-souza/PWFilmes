@@ -33,7 +33,7 @@
     protected override async Task OnInitializedAsync()
     {
         var response = await Http.GetAsync("api/Categoria/listar"); // faz a requisição para o servidor
-        var content = await response.Content.ReadAsStreamAsync(); // guarda o resultado no content em forma de string
+        var content = await response.Content.ReadAsStringAsync(); // guarda o resultado no content em forma de string
         var option = new JsonSerializerOptions { PropertyNameCaseInsensitive = true }; // faz o C# ignorar a CaseSensitive
         categorias = JsonSerializer.Deserialize<List<Categoria>>(content,option); // serializer = converter json em classe especifica do C#, no caso convertendoa a lista de categoria
 
