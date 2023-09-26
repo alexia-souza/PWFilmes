@@ -197,13 +197,13 @@
       "mscorlib.dll": "sha256-zMI\/dXK7DoZZ9Qm9U9\/jRN4iQ9Ss3w8\/rwQQxC6SW9Y=",
       "netstandard.dll": "sha256-W3q3PN+lpRB+tRJEIhtMgYOGFv0pauEeeCS9iIRkKAM=",
       "System.Private.CoreLib.dll": "sha256-9rUJv1mXEQdGt\/kWiJ1ITPPzp3cAi3lSmqHVTisp7w0=",
-      "PWFilmes.Domain.dll": "sha256-pYwSB+tfs6wJGL4ojATwku44KdJt9WVFApCGAv8+XSQ=",
-      "PWFilmes.Presentation.dll": "sha256-7UL6AY0Up4XWdaTW6\/RhVVU8tKZMjW\/79IZO\/UPT7s8="
+      "PWFilmes.Domain.dll": "sha256-nF6EqarjTo8gLANUdxMUdhMiNkKdpYD\/nz1NQGtalU8=",
+      "PWFilmes.Presentation.dll": "sha256-XepRJo7gW8Ff6aGeOV1vDhAweDtyBRS+g1tNwTiXLVQ="
     },
     "lazyAssembly": null,
     "pdb": {
-      "PWFilmes.Domain.pdb": "sha256-Kf\/Zb1gAPYCq2YpKpZzWvcYrW+A+h2KbxuYiIu9iUTY=",
-      "PWFilmes.Presentation.pdb": "sha256-wHZaCgFaxEZzc\/7BHPQN8e\/4Z2jDIFfYqJTSqaR7Mvs="
+      "PWFilmes.Domain.pdb": "sha256-ctCxnhFUW+Pwhtw\/8AaBUnISpGaspD9Y1yGg0Prt0Ik=",
+      "PWFilmes.Presentation.pdb": "sha256-6bm3uSo4Jcj00eemMP+5wP4YNUslonuLRr7Wn1ASlp0="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-8oJip361m8OrfLRJOuIeswWKaoxtT27\/wINCxhn+s4c=",
