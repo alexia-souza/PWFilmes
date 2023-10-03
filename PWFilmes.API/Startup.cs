@@ -30,7 +30,7 @@ namespace PWFilmes.API
         {
             services.AddDbContext<PWFilmesContext>(options =>
             {
-                var connection = Configuration.GetConnectionString("PWFilmesConnection");
+                var connection = "server=localhost; port=3306; database=PWFilmes; uid=root";
                 options.UseMySql(connection, ServerVersion.AutoDetect(connection));
             });
              services.AddCors(); // Cors = recurso compartilhado com origer
